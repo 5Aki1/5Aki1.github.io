@@ -22,6 +22,6 @@ My PhD is in the [Bailey Lab](https://github.com/SvenBaileyLab) at McGill, where
 
 ## Elsewhere
 
-- [[publications|Publications]] · [[software/index|Software]] · [[notes/index|Notes]] · [[weightlifting|Weightlifting]]
+- [[publications|Publications]] · [[software/index|Software]] · [[notes/index|Notes]] · [[about|About me]]
 - [GitHub](https://github.com/5Aki1) · [Google Scholar](https://scholar.google.com/citations?user=Yk3o33wAAAAJ) · [ORCID](https://orcid.org/0000-0001-5512-261X) · [LinkedIn](https://www.linkedin.com/in/eftyhios-kirbizakis/)
 - e.kirbizakis@gmail.com

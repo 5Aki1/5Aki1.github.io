@@ -26,9 +26,9 @@ configuration:
         darkgray: "#4e4e4e"
         dark: "#2b2b2b"
         secondary: "#0f6b63"
-        tertiary: "#c2582b"
+        tertiary: "#7b4fb3"
         highlight: rgba(15, 107, 99, 0.10)
-        textHighlight: "#fff23688"
+        textHighlight: "#c9a8f066"
       darkMode:
         light: "#161618"
         lightgray: "#393639"
@@ -36,9 +36,9 @@ configuration:
         darkgray: "#d4d4d4"
         dark: "#ebebec"
         secondary: "#5fbfb2"
-        tertiary: "#e08a5f"
+        tertiary: "#b89be0"
         highlight: rgba(95, 191, 178, 0.12)
-        textHighlight: "#b3aa0288"
+        textHighlight: "#7b4fb366"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
