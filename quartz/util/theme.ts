@@ -87,10 +87,23 @@ function formatFontSpecification(
 
 export function googleFontHref(theme: Theme) {
   const { header, body, code } = theme.typography
+  const codeFont = formatFontSpecification("code", code)
+  const headerName = typeof header === "string" ? header : header.name
+  const bodyName = typeof body === "string" ? body : body.name
+
+  // Google Fonts rejects a request that lists the same family twice,
+  // so when header and body share a family, request it once with all weights.
+  if (headerName === bodyName) {
+    const shared = formatFontSpecification("body", {
+      name: bodyName,
+      weights: [400, 600, 700],
+      includeItalic: true,
+    })
+    return `https://fonts.googleapis.com/css2?family=${shared}&family=${codeFont}&display=swap`
+  }
+
   const headerFont = formatFontSpecification("header", header)
   const bodyFont = formatFontSpecification("body", body)
-  const codeFont = formatFontSpecification("code", code)
-
   return `https://fonts.googleapis.com/css2?family=${headerFont}&family=${bodyFont}&family=${codeFont}&display=swap`
 }
 

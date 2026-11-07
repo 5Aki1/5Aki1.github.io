@@ -10,14 +10,8 @@ Off the computer, I lift and coach Olympic weightlifting in Montreal.
 
 ## Weightlifting
 
-```
-$ cat lifter.log
-sport       Olympic weightlifting
-snatch      100 kg
-clean&jerk  130 kg
-total       230 kg  @ 69 kg bodyweight
-coaching    Waverly Gym, Montreal (2024–present)
-```
+- Snatch 100 kg, clean & jerk 130 kg, 230 kg total at 69 kg bodyweight
+- Coach at Waverly Gym, Montreal, since 2024
 
 <!-- Aki: how you got into it, how you coach, who the class is for -->
 

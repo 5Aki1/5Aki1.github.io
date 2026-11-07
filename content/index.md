@@ -2,16 +2,9 @@
 title: Eftyhios (Aki) Kirbizakis
 ---
 
-```
-$ whoami
-Eftyhios (Aki) Kirbizakis
-computational biologist · bioinformatics · cancer epigenomics
-PhD candidate, Human Genetics, McGill University
-```
+I'm a computational biologist and PhD candidate in Human Genetics at McGill. I build tools and pipelines that find and interpret functional noncoding variants in cancer, using large-scale sequencing and epigenomic data.
 
-I'm a computational biologist. I build tools and pipelines that find and interpret functional noncoding variants in cancer, using large-scale sequencing and epigenomic data.
-
-My PhD is in the [Bailey Lab](https://github.com/SvenBaileyLab) at McGill, where I study noncoding regulatory mutations in esophageal and gastroesophageal adenocarcinoma. I graduate in early 2027.
+I work in the [Bailey Lab](https://github.com/SvenBaileyLab), where I study noncoding regulatory mutations in esophageal and gastroesophageal adenocarcinoma. I graduate in early 2027.
 
 ## What I work on
 

@@ -1,3 +1,39 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Site name in the sidebar: purple-to-teal gradient
+.page-title a {
+  background: linear-gradient(90deg, var(--secondary), var(--tertiary));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+// Homepage title a bit bigger
+body[data-slug="index"] .article-title {
+  font-size: 2.6rem;
+  letter-spacing: -0.01em;
+}
+
+// Code blocks: purple rail on the left
+pre {
+  border-left: 3px solid var(--secondary) !important;
+}
+
+// Section headings: short purple rule underneath
+article h2::after {
+  content: "";
+  display: block;
+  width: 2.5rem;
+  height: 3px;
+  margin-top: 0.35rem;
+  border-radius: 2px;
+  background: var(--secondary);
+}
+
+// Internal link pills: purple tint, gradient underline on hover
+a.internal {
+  transition: background-color 0.15s ease;
+}
+a.internal:hover {
+  background-color: color-mix(in srgb, var(--secondary) 22%, transparent);
+}
