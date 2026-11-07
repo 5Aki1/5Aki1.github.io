@@ -16,7 +16,7 @@ configuration:
     cdnCaching: true
     typography:
       header: Source Serif 4
-      body: Source Serif 4
+      body: Inter
       code: IBM Plex Mono
     colors:
       lightMode:
@@ -101,7 +101,7 @@ plugins:
     enabled: true
     options:
       header: Source Serif 4
-      body: Source Serif 4
+      body: Inter
       code: IBM Plex Mono
   - source: "@quartz-themes/core"
     enabled: false
