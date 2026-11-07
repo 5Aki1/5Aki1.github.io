@@ -11,7 +11,7 @@ PhD candidate, Human Genetics, McGill University
 
 I'm a computational biologist. I build tools and pipelines that find and interpret functional noncoding variants in cancer, using large-scale sequencing and epigenomic data.
 
-My PhD is in the [Bailey Lab](https://github.com/SvenBaileyLab) at McGill, where I study noncoding regulatory mutations in esophageal and gastroesophageal adenocarcinoma. I graduate at the end of 2026.
+My PhD is in the [Bailey Lab](https://github.com/SvenBaileyLab) at McGill, where I study noncoding regulatory mutations in esophageal and gastroesophageal adenocarcinoma. I graduate in early 2027.
 
 ## What I work on
 
@@ -19,11 +19,6 @@ My PhD is in the [Bailey Lab](https://github.com/SvenBaileyLab) at McGill, where
 - **Chromatin structure.** Finding nucleosome-free regions inside histone modification peaks. See [[software/histrader|HisTrader]].
 - **Noncoding drivers in cancer.** Linking regulatory elements to genes with HiChIP and testing them for mutational burden in whole-genome cohorts.
 - **Pipelines.** Nextflow pipelines for reproducible processing and integration of epigenomic data (ChIP-seq, ATAC-seq, DNase-seq, and HiChIP).
-
-```
-languages   Python · R · Bash · Rust · C++
-frameworks  Nextflow · PyTorch · TensorFlow · scikit-learn · tidyverse
-```
 
 ## Elsewhere
 
