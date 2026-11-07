@@ -6,7 +6,7 @@ aliases:
 
 <!-- Aki: this page is all yours. Anything that isn't work goes here. -->
 
-Off the computer, I lift, coach, and try to stay outside as much as Montreal allows.
+Off the computer, I lift and coach Olympic weightlifting in Montreal.
 
 ## Weightlifting
 
@@ -21,7 +21,7 @@ coaching    Waverly Gym, Montreal (2024–present)
 
 <!-- Aki: how you got into it, how you coach, who the class is for -->
 
-## Running & training
+## Training
 
 I log everything on [Strava](https://www.strava.com/athletes/136816600).
 
